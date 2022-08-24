@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+$git ad up_to_date
+=======
+$git add up_to_date
+>>>>>>> Stashed changes
+$git pull
